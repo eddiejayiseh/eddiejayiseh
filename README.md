@@ -1,21 +1,32 @@
 
 # Hi, I'm Eddy! 👋
 
-### Is this a safe space? 👀 
+### 🚀 **Recent graduate actively seeking full-time roles and ready to relocate.**
+> *"I don't like coding for the sake of coding."* 👀
+> As strange as that sounds for a Computer Scientist (M.Sc.), it’s my greatest strength.
 
-**I don’t like coding.** As strange as that sounds for a Computer Scientist, it’s my greatest strength as a leader. I specialize in **AI Engineering and Product/Project Management**. Because I understand full-stack architecture from the ground up, I leverage modern GenAI tools, LLMs, and agentic workflows to build high-impact applications with speed. My passion lies in bridging the gap between technical execution and business strategy—focusing on the **"why"**, designing seamless user experiences, and leading agile sprints that ship real products fast.
+I’m an AI Engineer & Product Developer focused on building 0-to-1 products with speed. Because I understand software architecture from the ground up, I leverage modern LLMs, multi-agent workflows, and AI-assisted development tools to skip manual boilerplate and build production-grade applications fast. My passion lies in bridging the gap between technical execution and business strategy—focusing on the **"why"**, designing seamless user experiences, and leading agile sprints that ship real products fast.
+
+## 🛠️ What I Build With
+* AI & LLM Infra: Multi-Provider LLM Orchestration (Claude, OpenAI), Client-Side & Hybrid RAG, Prompt Evals & Telemetry, Vector Embeddings (1536-d, Cosine Match).
+
+* Full-Stack Development: TypeScript, React, Node.js, Python, Supabase, Tailwind CSS, REST APIs.
+
+* Product & DevOps: Jira (Jira Rovo), Confluence, Agile/Scrum, Docker, Kubernetes.
 
 ---
 
-### 🚀 Recent Wins
+### 🚀 Recent Projects
+**AI Engineer & Full-Stack Developer for Granola Action-Engine** for [granola-action-spark](https://github.com/eddiejayiseh/granola-action-spark ) | [Live Demo](https://granola-action-spark.lovable.app/)
+  * *Full-stack execution engine integrated with Claude Sonnet to extract zero-hallucination, source-cited engineering tickets and real-time LLM telemetry from meeting exports.*
+   
 **Creator & Developer** for [AI-permit-pilot](https://github.com/eddiejayiseh/AI-permit-pilot) | [Live Demo](https://permit-pilot-pilot.lovable.app/)
   * *An AI-integrated bridge platform built for international students in Hungary. Features dynamic, silent in-video compliance checkpoints, full responsive layout constraints across iOS/iPadOS, and a context-aware Claude 3.5 Sonnet assistant running over a public MCP server.*
+
    
-**AI & E-Commerce Developer** for [Dee-Bakes](https://github.com/eddiejayiseh/dee-bakes)
-  * *Full-stack e-commerce MVP integrated with Generative AI tools to streamline inventory management, custom ordering, and personalized customer interactions.*
-### 🎤 Beyond the serious stuff
+### 
 When I'm not working or studying, I’m likely:
-* 🍳 Experimenting with new recipes (**Baking is my therapy**)
+* 🍳 Baking or cooking
 * 📚 Reading a good book
 * 🎶 Listening to (or singing) classical music
 
