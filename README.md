@@ -5,9 +5,9 @@
 > *"I don't like coding for the sake of coding."* 👀
 > As strange as that sounds for a Computer Scientist (M.Sc.), it’s my greatest strength.
 
-I’m an AI Engineer & Product Developer focused on building 0-to-1 products with speed. Because I understand software architecture from the ground up, I leverage modern LLMs, multi-agent workflows, and AI-assisted development tools to skip manual boilerplate and build production-grade applications fast. My passion lies in bridging the gap between technical execution and business strategy—focusing on the **"why"**, designing seamless user experiences, and leading agile sprints that ship real products fast.
+I’m an AI Engineer & Product Developer focused on building 0-to-1 products with speed. I understand software architecture, leverage modern LLMs, multi-agent workflows, and AI-assisted development tools to build production-grade applications fast. My passion lies in bridging the gap between technical execution and business strategy—focusing on the **"why"**, designing seamless user experiences, and leading agile sprints that ship real products fast.
 
-## 🛠️ What I Build With
+## 🛠️ Tools
 * AI & LLM Infra: Multi-Provider LLM Orchestration (Claude, OpenAI), Client-Side & Hybrid RAG, Prompt Evals & Telemetry, Vector Embeddings.
 
 * Full-Stack Development: TypeScript, React, Node.js, Python, Supabase, Tailwind CSS, REST APIs.
